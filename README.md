@@ -95,7 +95,7 @@ We obtained the following (best of 3 runs)
 
 | Dataset    | Loss | Accuracy |
 |------------|------|----------|
-| CIFAR-10   |      |  94.9%   |
-| CIFAR-100  |      |  75.1%   |
+| CIFAR-10   | 0.154 |  94.9%   |
+| CIFAR-100  | 1.008 |  75.1%   |
 | Spirograph |      |  n/a     |
 
