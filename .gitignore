@@ -1,0 +1,8 @@
+*__pycache__*
+checkpoint
+.idea
+clan
+Pipfile
+dataset-paths.json
+.ipynb_checkpoints
+*.log
