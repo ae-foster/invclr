@@ -97,5 +97,5 @@ We obtained the following (best of 3 runs)
 |------------|------|----------|
 | CIFAR-10   | 0.154 |  94.9%   |
 | CIFAR-100  | 1.008 |  75.1%   |
-| Spirograph |      |  n/a     |
+| Spirograph | 0.001 |  n/a     |
 
